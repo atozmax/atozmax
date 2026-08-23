@@ -19,7 +19,7 @@ Backend engineer focused on scalable systems, event-driven architecture, and low
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,nestjs,nodejs,postgres,mongodb,redis,docker,linux,kafka,nginx" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nestjs,nodejs,postgres,mongodb,redis,docker,linux,kafka,nginx" />
 </p>
 
 ---
