@@ -1,7 +1,7 @@
 # atozmax (Amir Zare)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=atozmax(Amir_Zare)&fontSize=48&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=atozmax(Amir%20Zare)&fontSize=48&fontColor=ffffff" />
 </p>
 
 ## 🚀 Core Focus
